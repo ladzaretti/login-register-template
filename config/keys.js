@@ -1,4 +1,5 @@
 module.exports = {
   MongoURI:
-    "mongodb+srv://gbi:HyhByCsRa0eOnfF2@cluster.kt04q.mongodb.net/app?retryWrites=true&w=majority",
+    // Get Your URI from https://cloud.mongodb.com/
+    "mongodb+srv://<user>:<password>@<cluster>.kt04q.mongodb.net/app?retryWrites=true&w=majority",
 };
